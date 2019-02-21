@@ -10,3 +10,4 @@ ie  input: 7
             5
             7
             
+Be careful with large numbers in both of these programs.
